@@ -1,0 +1,11 @@
+{
+  "name": "node_file_scripts",
+  "version": "1.0.0",
+  "description": "ama over youtube live regarding nodejs file functions and promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
